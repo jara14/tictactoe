@@ -1,0 +1,29 @@
+
+.left
+{
+ border-bottom: solid 1px blue; border-right: solid 1px blue;
+}
+.right
+{
+ border-bottom: solid 1px blue; border-left: solid 1px blue;
+}
+
+.bottomleft
+{
+	border-right: solid 1px blue;
+}
+
+.bottomright
+{
+	border-left: solid 1px blue;
+}
+
+table {
+    border-collapse:collapse;
+
+}
+
+img
+{
+	height:100 ;width:100;
+}
